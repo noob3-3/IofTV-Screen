@@ -9,10 +9,11 @@
   <div class="contents">
     <div class="contetn_left">
       <div class="pagetab">
+        
         <!-- <div class="item">实时监测</div> -->
         
       </div>
-      <ItemWrap class="contetn_left-top contetn_lr-item" title="设备总览">
+      <ItemWrap class="contetn_left-top contetn_lr-item" title="库位总览">
         <LeftTop/>
     
       </ItemWrap>
